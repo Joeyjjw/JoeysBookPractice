@@ -1,1 +1,4 @@
 Added new book notes for practicing git GitHub 
+
+
+Made changes in gitHub after push went through 
